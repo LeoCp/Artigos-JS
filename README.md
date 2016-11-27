@@ -4,6 +4,7 @@
 | Nome          | Link            |
 | ------------- |-------------|
 | O que são promessas no JavaScript? | <a href="http://blog.taller.net.br/o-que-sao-promessas-javascript/">Artigo</a>|
+| O que todo desenvolvedor JavaScript precisa saber | <a href="http://imasters.com.br/front-end/javascript/o-que-todo-desenvolvedor-javascript-precisa-saber/?trace=1519021197&source=single">Artigo</a>|
 
 ## React
 | Nome          | Link            |
