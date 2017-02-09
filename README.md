@@ -13,6 +13,8 @@
 |Como usar o ReactJS     | <a href="https://willianjusten.com.br/como-usar-o-reactjs/">Artigo</a> |
 |O básico da API do ReactJS    | <a href="https://willianjusten.com.br/o-basico-da-api-do-reactjs/">Artigo</a> |
 |Organizando uma aplicação com React    | <a href="http://imasters.com.br/desenvolvimento/organizando-uma-aplicacao-com-react/?trace=1519021197&source=category-archive">Artigo</a> |
+|Macros no JavaScript    | <a href="https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c#.9ylwf2cio">Artigo</a> |
+
 ## Redux
 | Nome          | Link            |
 | ------------- |-------------|
