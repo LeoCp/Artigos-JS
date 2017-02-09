@@ -5,6 +5,7 @@
 | ------------- |-------------|
 | O que são promessas no JavaScript? | <a href="http://blog.taller.net.br/o-que-sao-promessas-javascript/">Artigo</a>|
 | O que todo desenvolvedor JavaScript precisa saber | <a href="http://imasters.com.br/front-end/javascript/o-que-todo-desenvolvedor-javascript-precisa-saber/?trace=1519021197&source=single">Artigo</a>|
+|Macros no JavaScript    | <a href="https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c#.9ylwf2cio">Artigo</a> |
 
 ## React
 | Nome          | Link            |
@@ -13,7 +14,6 @@
 |Como usar o ReactJS     | <a href="https://willianjusten.com.br/como-usar-o-reactjs/">Artigo</a> |
 |O básico da API do ReactJS    | <a href="https://willianjusten.com.br/o-basico-da-api-do-reactjs/">Artigo</a> |
 |Organizando uma aplicação com React    | <a href="http://imasters.com.br/desenvolvimento/organizando-uma-aplicacao-com-react/?trace=1519021197&source=category-archive">Artigo</a> |
-|Macros no JavaScript    | <a href="https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c#.9ylwf2cio">Artigo</a> |
 
 ## Redux
 | Nome          | Link            |
