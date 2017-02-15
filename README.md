@@ -6,6 +6,7 @@
 * [O que todo desenvolvedor JavaScript precisa saber](http://imasters.com.br/front-end/javascript/o-que-todo-desenvolvedor-javascript-precisa-saber/?trace=1519021197&source=single)
 * [Macros no JavaScript](https://medium.com/@victorvoid/macros-no-javascript-cdabe63ba35c#.9ylwf2cio)
 * [Como é programar em JavaScript em 2016](como-é-programar-em-javascript-em-2016-9c9b3c12cea8#.7ftkhdd3u)
+* [Limpando seu código JavaScript com Decorators](https://medium.com/@oieduardorabelo/limpando-seu-c%C3%B3digo-javascript-com-decorators-2aff8b768a25#.drulv6jqa)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
