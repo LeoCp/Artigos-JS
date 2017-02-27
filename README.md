@@ -9,6 +9,7 @@
 * [Limpando seu código JavaScript com Decorators](https://medium.com/@oieduardorabelo/limpando-seu-c%C3%B3digo-javascript-com-decorators-2aff8b768a25#.drulv6jqa)
 * [Programação funcional – parte 1](http://blog.taller.net.br/programacao-funcional-parte1/)
 * [Programação funcional – parte 2](http://blog.taller.net.br/programacao-funcional-parte-2/)
+* [Ecossistema JavaScript — Parte 01: Plataformas](https://blog.codecasts.com.br/ecossistema-javascript-parte-01-plataformas-7a611608b58#.1nnstbxs0)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
