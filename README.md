@@ -10,6 +10,8 @@
 * [Programação funcional – parte 1](http://blog.taller.net.br/programacao-funcional-parte1/)
 * [Programação funcional – parte 2](http://blog.taller.net.br/programacao-funcional-parte-2/)
 * [Ecossistema JavaScript — Parte 01: Plataformas](https://blog.codecasts.com.br/ecossistema-javascript-parte-01-plataformas-7a611608b58#.1nnstbxs0)
+* [Ecossistema JavaScript — Parte 02: Package Managers](https://blog.codecasts.com.br/ecossistema-javascript-parte-02-package-manager-68fd19a1fad3#.kzc0ez821)
+* [Ecossistema JavaScript — Parte 03: Task Runners](https://blog.codecasts.com.br/ecossistema-javascript-parte-03-task-runners-5acedba9f072#.azaz0cwgc)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
