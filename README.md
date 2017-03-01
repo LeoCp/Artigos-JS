@@ -16,7 +16,12 @@
 * [Ecossistema JavaScript — Parte 05: Bundlers (Builders)](https://blog.codecasts.com.br/ecossistema-javascript-parte-05-bundlers-builders-6809b17ddcf8#.2oap495gw)
 * [ECMAScript 2015: Let + Const](http://developers.scup.com/ecmascript-2015-let-const/)
 * [ECMAScript 2015: Arrow Functions](http://developers.scup.com/ecmascript-2015-arrow-function/)
+* [ECMAScript 2015: Módulos](http://developers.scup.com/ecmascript-2015-modulos/)
 * [ECMAScript 2015: Estruturas de dados eficientes](http://developers.scup.com/ecmascript-2015-estruturas-de-dados-eficientes/)
+* [ECMAScript 2015: Symbols](http://developers.scup.com/ecmascript-2015-symbols/)
+* [ECMAScript 2015: Promises](http://developers.scup.com/ecmascript-2015-promises/)
+* [ECMAScript 2015: Generators](http://developers.scup.com/ecmascript-2015-generators/)
+* [ECMAScript 2015: Classes](http://developers.scup.com/ecmascript-2015-classes/)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
