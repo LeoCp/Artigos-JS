@@ -15,6 +15,7 @@
 * [Ecossistema JavaScript — Parte 04: Transpilers](https://blog.codecasts.com.br/ecossistema-javascript-parte-04-transpilers-734f77422316#.ux5fkbh85)
 * [Ecossistema JavaScript — Parte 05: Bundlers (Builders)](https://blog.codecasts.com.br/ecossistema-javascript-parte-05-bundlers-builders-6809b17ddcf8#.2oap495gw)
 * [ECMAScript 2015: Let + Const](http://developers.scup.com/ecmascript-2015-let-const/)
+* [ECMAScript 2015: Arrow Functions](http://developers.scup.com/ecmascript-2015-arrow-function/)
 * [ECMAScript 2015: Estruturas de dados eficientes](http://developers.scup.com/ecmascript-2015-estruturas-de-dados-eficientes/)
 
 ## React
