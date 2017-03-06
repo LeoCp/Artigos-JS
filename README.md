@@ -23,6 +23,7 @@
 * [ECMAScript 2015: Generators](http://developers.scup.com/ecmascript-2015-generators/)
 * [ECMAScript 2015: Classes](http://developers.scup.com/ecmascript-2015-classes/)
 * [Funções async/await do ES7](https://medium.com/@oieduardorabelo/fun%C3%A7%C3%B5es-async-await-do-es7-c123469ded5#.rh2byzlxu)
+* [A única coisa ruim sobre async/await do ES7](https://medium.com/@oieduardorabelo/a-%C3%BAnica-coisa-ruim-sobre-async-await-do-es7-413b485a7709#.99l2l6jht)
 
 
 ## React
