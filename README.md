@@ -24,7 +24,7 @@
 * [ECMAScript 2015: Classes](http://developers.scup.com/ecmascript-2015-classes/)
 * [Funções async/await do ES7](https://medium.com/@oieduardorabelo/fun%C3%A7%C3%B5es-async-await-do-es7-c123469ded5#.rh2byzlxu)
 * [A única coisa ruim sobre async/await do ES7](https://medium.com/@oieduardorabelo/a-%C3%BAnica-coisa-ruim-sobre-async-await-do-es7-413b485a7709#.99l2l6jht)
-
+* [Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.bmoli0a04)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
