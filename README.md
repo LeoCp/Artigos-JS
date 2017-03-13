@@ -25,6 +25,7 @@
 * [Funções async/await do ES7](https://medium.com/@oieduardorabelo/fun%C3%A7%C3%B5es-async-await-do-es7-c123469ded5#.rh2byzlxu)
 * [A única coisa ruim sobre async/await do ES7](https://medium.com/@oieduardorabelo/a-%C3%BAnica-coisa-ruim-sobre-async-await-do-es7-413b485a7709#.99l2l6jht)
 * [Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.bmoli0a04)
+* [Programação Funcional Avançada: Monads em JavaScript](https://medium.com/tableless/programa%C3%A7%C3%A3o-funcional-avan%C3%A7ada-monads-em-javascript-862e8588fcdf#.l6ej7cpo9)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
