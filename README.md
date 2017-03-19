@@ -26,6 +26,7 @@
 * [A única coisa ruim sobre async/await do ES7](https://medium.com/@oieduardorabelo/a-%C3%BAnica-coisa-ruim-sobre-async-await-do-es7-413b485a7709#.99l2l6jht)
 * [Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.bmoli0a04)
 * [Programação Funcional Avançada: Monads em JavaScript](https://medium.com/tableless/programa%C3%A7%C3%A3o-funcional-avan%C3%A7ada-monads-em-javascript-862e8588fcdf#.l6ej7cpo9)
+* [Um ensaio sobre Arquitetura Fractal usando Webpack e React](https://imasters.com.br/front-end/javascript/um-ensaio-sobre-arquitetura-fractal-usando-webpack-e-react/?trace=1519021197&source=category-archive)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
