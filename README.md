@@ -34,6 +34,7 @@
 * [O básico da API do ReactJS](https://willianjusten.com.br/o-basico-da-api-do-reactjs/)
 * [Organizando uma aplicação com React](http://imasters.com.br/desenvolvimento/organizando-uma-aplicacao-com-react/?trace=1519021197&source=category-archive)
 * [O futuro do React — setState e programação funcional](https://medium.com/@oieduardorabelo/o-futuro-do-react-setstate-e-programa%C3%A7%C3%A3o-funcional-859451332220#.le0f5yiy6)
+* [Aplicações Escaláveis com React e React Native](https://blog.getty.io/aplica%C3%A7%C3%B5es-escal%C3%A1veis-com-react-e-react-native-2d337deaf8a1#.ptr80stwd)
 
 
 ## Redux
