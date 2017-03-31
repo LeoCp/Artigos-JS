@@ -35,6 +35,7 @@
 * [Organizando uma aplicação com React](http://imasters.com.br/desenvolvimento/organizando-uma-aplicacao-com-react/?trace=1519021197&source=category-archive)
 * [O futuro do React — setState e programação funcional](https://medium.com/@oieduardorabelo/o-futuro-do-react-setstate-e-programa%C3%A7%C3%A3o-funcional-859451332220#.le0f5yiy6)
 * [Aplicações Escaláveis com React e React Native](https://blog.getty.io/aplica%C3%A7%C3%B5es-escal%C3%A1veis-com-react-e-react-native-2d337deaf8a1#.ptr80stwd)
+* [React e Babel — Como melhorar o desempenho de suas aplicações com plugins, presets e benchmark!](https://medium.com/@oieduardorabelo/react-e-babel-como-melhorar-o-desempenho-de-suas-aplica%C3%A7%C3%B5es-com-plugins-presets-e-benchmark-fb35700a52e9)
 
 
 ## Redux
