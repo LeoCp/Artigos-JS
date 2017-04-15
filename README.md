@@ -36,7 +36,7 @@
 * [O futuro do React — setState e programação funcional](https://medium.com/@oieduardorabelo/o-futuro-do-react-setstate-e-programa%C3%A7%C3%A3o-funcional-859451332220#.le0f5yiy6)
 * [Aplicações Escaláveis com React e React Native](https://blog.getty.io/aplica%C3%A7%C3%B5es-escal%C3%A1veis-com-react-e-react-native-2d337deaf8a1#.ptr80stwd)
 * [React e Babel — Como melhorar o desempenho de suas aplicações com plugins, presets e benchmark!](https://medium.com/@oieduardorabelo/react-e-babel-como-melhorar-o-desempenho-de-suas-aplica%C3%A7%C3%B5es-com-plugins-presets-e-benchmark-fb35700a52e9)
-
+* [Twitter Lite — Alta performance com React e Progressive Web Apps em escala!](https://medium.com/@oieduardorabelo/twitter-lite-alta-performance-com-react-e-progressive-web-apps-em-escala-2755e0908728)
 
 ## Redux
 * [5 Motivos para usar Redux](https://medium.com/getty-blog-brasil/5-motivos-para-aprender-redux-6ac730f3f1f2#.wvnvuac8s)
