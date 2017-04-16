@@ -38,6 +38,7 @@
 * [React e Babel — Como melhorar o desempenho de suas aplicações com plugins, presets e benchmark!](https://medium.com/@oieduardorabelo/react-e-babel-como-melhorar-o-desempenho-de-suas-aplica%C3%A7%C3%B5es-com-plugins-presets-e-benchmark-fb35700a52e9)
 * [Twitter Lite — Alta performance com React e Progressive Web Apps em escala!](https://medium.com/@oieduardorabelo/twitter-lite-alta-performance-com-react-e-progressive-web-apps-em-escala-2755e0908728)
 * [Webpack e React — Entendendo o processo de deploy](https://medium.com/@oieduardorabelo/webpack-e-react-entendendo-o-processo-de-deploy-5991aa285d1a)
+* [Webpack para React: o guia final](https://imasters.com.br/desenvolvimento/webpack-para-react-o-guia-final/?trace=1519021197&source=admin)
 
 ## Redux
 * [5 Motivos para usar Redux](https://medium.com/getty-blog-brasil/5-motivos-para-aprender-redux-6ac730f3f1f2#.wvnvuac8s)
