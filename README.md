@@ -27,6 +27,7 @@
 * [Entendendo Programação Funcional em JavaScript de uma vez](https://medium.com/tableless/entendendo-programa%C3%A7%C3%A3o-funcional-em-javascript-de-uma-vez-c676489be08b#.bmoli0a04)
 * [Programação Funcional Avançada: Monads em JavaScript](https://medium.com/tableless/programa%C3%A7%C3%A3o-funcional-avan%C3%A7ada-monads-em-javascript-862e8588fcdf#.l6ej7cpo9)
 * [Um ensaio sobre Arquitetura Fractal usando Webpack e React](https://imasters.com.br/front-end/javascript/um-ensaio-sobre-arquitetura-fractal-usando-webpack-e-react/?trace=1519021197&source=category-archive)
+* [Arquitetura de Software em JavaScript — Ports, Interfaces e Interactors](https://medium.com/@oieduardorabelo/arquitetura-de-software-em-javascript-ports-interfaces-e-interactors-d6e826b9d3aa)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
