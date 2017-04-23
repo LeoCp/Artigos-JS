@@ -41,6 +41,7 @@
 * [Webpack e React — Entendendo o processo de deploy](https://medium.com/@oieduardorabelo/webpack-e-react-entendendo-o-processo-de-deploy-5991aa285d1a)
 * [Webpack para React: o guia final](https://imasters.com.br/desenvolvimento/webpack-para-react-o-guia-final/?trace=1519021197&source=admin)
 * [Componentes, Elementos e Instâncias em React](https://medium.com/@oieduardorabelo/componentes-elementos-e-inst%C3%A2ncias-em-react-2833f613b063)
+* [Sim, o React está tomando conta do desenvolvimento front-end. A questão é por quê.](http://blog.taller.net.br/sim-o-react-esta-tomando-conta-do-desenvolvimento-front-end-a-questao-e-por-que/)
 
 ## Redux
 * [5 Motivos para usar Redux](https://medium.com/getty-blog-brasil/5-motivos-para-aprender-redux-6ac730f3f1f2#.wvnvuac8s)
