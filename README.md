@@ -30,6 +30,7 @@
 * [Arquitetura de Software em JavaScript — Ports, Interfaces e Interactors](https://medium.com/@oieduardorabelo/arquitetura-de-software-em-javascript-ports-interfaces-e-interactors-d6e826b9d3aa)
 * [Strings - Em busca da substring perfeita](http://nomadev.com.br/strings-em-busca-da-substring-perfeita/)
 * [O ECMAScript 6 e o futuro do JavaScript](https://imasters.com.br/front-end/javascript/o-ecmascript-6-e-o-futuro-do-javascript/?trace=1519021197&source=category-archive)
+* [Indentação como medida de complexidade em JavaScript](https://medium.com/@oieduardorabelo/indenta%C3%A7%C3%A3o-como-medida-de-complexidade-em-javascript-2d8145ea49)
 
 
 ## React
