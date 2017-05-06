@@ -31,7 +31,7 @@
 * [Strings - Em busca da substring perfeita](http://nomadev.com.br/strings-em-busca-da-substring-perfeita/)
 * [O ECMAScript 6 e o futuro do JavaScript](https://imasters.com.br/front-end/javascript/o-ecmascript-6-e-o-futuro-do-javascript/?trace=1519021197&source=category-archive)
 * [Indentação como medida de complexidade em JavaScript](https://medium.com/@oieduardorabelo/indenta%C3%A7%C3%A3o-como-medida-de-complexidade-em-javascript-2d8145ea49)
-
+* [Refatorando para JavaScript Funcional: composição de funções (parte 1)](https://blog.codeminer42.com/refatorando-para-javascript-funcional-composi%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es-parte-1-263811e2dfbc)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
