@@ -33,6 +33,7 @@
 * [Indentação como medida de complexidade em JavaScript](https://medium.com/@oieduardorabelo/indenta%C3%A7%C3%A3o-como-medida-de-complexidade-em-javascript-2d8145ea49)
 * [Refatorando para JavaScript Funcional: composição de funções (parte 1)](https://blog.codeminer42.com/refatorando-para-javascript-funcional-composi%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es-parte-1-263811e2dfbc)
 * [Refatorando para JavaScript Funcional: composição de funções (parte 2)](https://blog.codeminer42.com/refatorando-para-javascript-funcional-composi%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es-parte-2-ff8cbe53122b)
+* [Refatorando para JavaScript Funcional: composição de funções (parte 3)](https://blog.codeminer42.com/refatorando-para-javascript-funcional-composi%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es-parte-3-598f397d694b)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
