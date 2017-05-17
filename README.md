@@ -49,6 +49,7 @@
 * [Webpack para React: o guia final](https://imasters.com.br/desenvolvimento/webpack-para-react-o-guia-final/?trace=1519021197&source=admin)
 * [Componentes, Elementos e Instâncias em React](https://medium.com/@oieduardorabelo/componentes-elementos-e-inst%C3%A2ncias-em-react-2833f613b063)
 * [Sim, o React está tomando conta do desenvolvimento front-end. A questão é por quê.](http://blog.taller.net.br/sim-o-react-esta-tomando-conta-do-desenvolvimento-front-end-a-questao-e-por-que/)
+* [Teste de Aceitação com React, Jest e Nightmare](https://braziljs.org/blog/teste-de-aceitacao-com-react-jest-e-nightmare/)
 
 ## Redux
 * [5 Motivos para usar Redux](https://medium.com/getty-blog-brasil/5-motivos-para-aprender-redux-6ac730f3f1f2#.wvnvuac8s)
