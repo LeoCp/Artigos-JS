@@ -36,6 +36,7 @@
 * [Refatorando para JavaScript Funcional: composição de funções (parte 3)](https://blog.codeminer42.com/refatorando-para-javascript-funcional-composi%C3%A7%C3%A3o-de-fun%C3%A7%C3%B5es-parte-3-598f397d694b)
 * [O ecossistema de Testes em JavaScript em 2017](https://medium.com/@oieduardorabelo/o-ecossistema-de-testes-em-javascript-em-2017-74a78625aa15)
 * [Os 22 anos do JavaScript, contados pelo seu criador, Brendan Eich](https://braziljs.org/blog/os-22-anos-javascript-contados-pelo-seu-criador-brendan-eich/)
+* [JavaScript Assíncrono – Introdução](https://braziljs.org/blog/javascript-assincrono-introducao/)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
