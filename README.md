@@ -37,6 +37,7 @@
 * [O ecossistema de Testes em JavaScript em 2017](https://medium.com/@oieduardorabelo/o-ecossistema-de-testes-em-javascript-em-2017-74a78625aa15)
 * [Os 22 anos do JavaScript, contados pelo seu criador, Brendan Eich](https://braziljs.org/blog/os-22-anos-javascript-contados-pelo-seu-criador-brendan-eich/)
 * [JavaScript Assíncrono – Introdução](https://braziljs.org/blog/javascript-assincrono-introducao/)
+* [JavaScript Multi threading com Web Workers](https://braziljs.org/blog/javascript-multi-threading-com-web-workers-2/)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
