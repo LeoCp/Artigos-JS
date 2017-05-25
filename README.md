@@ -38,6 +38,7 @@
 * [Os 22 anos do JavaScript, contados pelo seu criador, Brendan Eich](https://braziljs.org/blog/os-22-anos-javascript-contados-pelo-seu-criador-brendan-eich/)
 * [JavaScript Assíncrono – Introdução](https://braziljs.org/blog/javascript-assincrono-introducao/)
 * [JavaScript Multi threading com Web Workers](https://braziljs.org/blog/javascript-multi-threading-com-web-workers-2/)
+* [Uma Suave Introdução ao JavaScript Funcional: Parte 1](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/009-uma-suave-introducao-ao-javascript-parte-1.md)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
