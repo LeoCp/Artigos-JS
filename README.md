@@ -41,6 +41,7 @@
 * [Uma Suave Introdução ao JavaScript Funcional: Parte 1](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/009-uma-suave-introducao-ao-javascript-parte-1.md)
 * [Uma Suave Introdução ao JavaScript Funcional: Parte 2](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/010-uma-suave-introducao-ao-javascript-parte-2.md)
 * [Uma Suave Introdução ao JavaScript Funcional: Parte 3](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/011-uma-suave-introducao-ao-javascript-parte-3.md)
+* [Uma Suave Introdução ao JavaScript Funcional: Parte 4](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/012-uma-suave-introducao-ao-javascript-parte-4.md)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
