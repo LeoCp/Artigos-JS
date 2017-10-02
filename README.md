@@ -1,6 +1,5 @@
 # Uma coleção de artigos sobre javascript
 <img src="js.jpg">
-[contributing]: /CONTRIBUTING.md
 
 ## Javascript
 * [O que são promessas no JavaScript?](http://blog.taller.net.br/o-que-sao-promessas-javascript/)
@@ -70,3 +69,5 @@
 
 ## Como contribuir :tada:
 Não tem um artigo que você conhece aqui ? [Veja como contribuir][contributing].
+
+[contributing]: /CONTRIBUTING.md
