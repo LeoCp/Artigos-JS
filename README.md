@@ -1,5 +1,6 @@
 # Uma coleção de artigos sobre javascript
 <img src="js.jpg">
+[contributing]: /CONTRIBUTING.md
 
 ## Javascript
 * [O que são promessas no JavaScript?](http://blog.taller.net.br/o-que-sao-promessas-javascript/)
@@ -66,3 +67,6 @@
 * [Redux e Reducers: A mágica das funções puras](https://medium.com/@oieduardorabelo/redux-e-reducers-a-m%C3%A1gica-das-fun%C3%A7%C3%B5es-puras-65e5beb093d8#.hijob3lyj)
 * [Redux em larga escala — Mexericando a nova stack do Twitter!](https://medium.com/@oieduardorabelo/redux-em-larga-escala-mexericando-a-nova-stack-do-twitter-9da759eb0486#.5aq9861m3)
 * [Seja mais produtivo escrevendo redutores ReduxJS](https://imasters.com.br/desenvolvimento/seja-mais-produtivo-escrevendo-redutores-reduxjs/?trace=1519021197&source=category-archive)
+
+## Como contribuir :tada:
+Não tem um artigo que você conhece aqui ? [Veja como contribuir][contributing].
