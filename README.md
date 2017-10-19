@@ -44,7 +44,7 @@
 * [Uma Suave Introdução ao JavaScript Funcional: Parte 4](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/012-uma-suave-introducao-ao-javascript-parte-4.md)
 * [Novos campos de classe #private no JavaScript](https://medium.com/trainingcenter/novos-campos-de-classe-private-no-javascript-2622d5faa65e)
 * [Compondo funções em JavaScript](http://cangaceirojavascript.com.br/compondo-funcoes-javascript/)
-
+* [Reduce, mais um dia sem loops.](https://blog.codecasts.com.br/reduce-mais-um-dia-sem-loops-92682c5ffde8)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
