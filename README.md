@@ -45,6 +45,12 @@
 * [Novos campos de classe #private no JavaScript](https://medium.com/trainingcenter/novos-campos-de-classe-private-no-javascript-2622d5faa65e)
 * [Compondo funções em JavaScript](http://cangaceirojavascript.com.br/compondo-funcoes-javascript/)
 * [Reduce, mais um dia sem loops.](https://blog.codecasts.com.br/reduce-mais-um-dia-sem-loops-92682c5ffde8)
+* [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 1 (Introdução)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-1-2e22910f7af2)
+* [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 2 (Metacharacters)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-2-66db21827352)
+* [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 3 (Character Sets & Quantifiers)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-3-character-sets-2c1be7455ab9)
+* [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 4 (Anchors)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-4-%C3%A2ncoras-77561c659154)
+* [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 5 (Flags)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-5-flags-c75793f686e)
+
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
