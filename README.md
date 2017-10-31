@@ -50,6 +50,7 @@
 * [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 3 (Character Sets & Quantifiers)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-3-character-sets-2c1be7455ab9)
 * [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 4 (Anchors)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-4-%C3%A2ncoras-77561c659154)
 * [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 5 (Flags)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-5-flags-c75793f686e)
+* [Class Factory ou Factory Function?](http://cangaceirojavascript.com.br/padrao-de-projeto-factory-ou-factory-function/)
 
 
 ## React
