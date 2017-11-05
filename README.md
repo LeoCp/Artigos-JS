@@ -52,7 +52,7 @@
 * [Expressões Regulares em Javascript: Libere o poder oculto na prática — Parte 5 (Flags)](https://medium.com/@felipemonobe/express%C3%B5es-regulares-em-javascript-libere-o-poder-oculto-na-pr%C3%A1tica-parte-5-flags-c75793f686e)
 * [Class Factory ou Factory Function?](http://cangaceirojavascript.com.br/padrao-de-projeto-factory-ou-factory-function/)
 * [Pipeline operator, uma proposta interessante ao tc39](http://cangaceirojavascript.com.br/pipeline-operator-proposta-interessante-tc39/)
-
+* [Desmistificando o destructuring do JavaScript ES6/ES7](https://blog.taller.net.br/desmistificando-o-destructuring-do-javascript-es6es7/)
 
 ## React
 * [Começando com ReactJS](https://willianjusten.com.br/comecando-com-react/)
